@@ -1,13 +1,6 @@
-# Hello_World
-
-Hello all!
-
-My name is Adam Brennan and I am a third year Accounting and BAIS major at the University of Iowa.
-I plan to graduate in May of 2024.
-
-#**Project Title**#
-##*Description*##
-###***How to Run Program***###
-- ###Files Used###
-- ###Additional Documentation###
-- ###Versioning###
+1. ***Project Title***
+2. **Description**
+3. *How to Run Program*
+4. - Files Used
+5. - Additional Documentation
+6. - Versioning
